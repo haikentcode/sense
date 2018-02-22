@@ -1,6 +1,6 @@
 # sense
 
-I am goind do desing a system that can sence the world as we can
+I am going do desing a system that can sence the world as we can
 
 
 Vision (Visual) — Provides us with details about what we see and helps us to define boundaries as our brain processes color, contrast, shape, and movement.
